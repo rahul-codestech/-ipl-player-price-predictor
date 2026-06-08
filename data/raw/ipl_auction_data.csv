@@ -1,0 +1,53 @@
+player_name,role,country,age,base_price_lakhs,sold_price_cr,is_star
+Virat Kohli,Batsman,India,35,500,425.61,1
+Rohit Sharma,Batsman,India,36,500,496.76,1
+KL Rahul,Batsman,India,32,500,20.0,0
+Shubman Gill,Batsman,India,24,500,89.07,0
+Faf du Plessis,Batsman,South Africa,39,500,69.02,0
+David Warner,Batsman,Australia,37,500,21.88,0
+Jos Buttler,WK-Batsman,England,33,750,513.77,1
+Quinton de Kock,WK-Batsman,South Africa,31,750,69.0,0
+Rishabh Pant,WK-Batsman,India,26,750,96.41,0
+Ishan Kishan,WK-Batsman,India,25,750,97.81,0
+Shreyas Iyer,Batsman,India,29,500,49.97,0
+Suryakumar Yadav,Batsman,India,33,500,72.32,0
+Tilak Varma,Batsman,India,21,500,89.8,0
+Ruturaj Gaikwad,Batsman,India,27,500,20.0,0
+Devdutt Padikkal,Batsman,India,24,500,100.63,0
+Prithvi Shaw,Batsman,India,24,500,20.0,0
+Manish Pandey,Batsman,India,34,500,77.48,0
+Ambati Rayudu,Batsman,India,38,500,74.3,0
+Robin Uthappa,Batsman,India,38,500,20.0,0
+Ajinkya Rahane,Batsman,India,35,500,32.68,0
+Hardik Pandya,All-Rounder,India,30,1000,471.83,1
+Ravindra Jadeja,All-Rounder,India,35,1000,83.55,0
+Axar Patel,All-Rounder,India,30,1000,95.76,0
+Washington Sundar,All-Rounder,India,24,1000,146.39,0
+Glenn Maxwell,All-Rounder,Australia,35,1000,129.31,0
+Marcus Stoinis,All-Rounder,Australia,34,1000,134.87,0
+Sam Curran,All-Rounder,England,25,1000,103.13,0
+Ben Stokes,All-Rounder,England,32,1000,92.72,0
+Andre Russell,All-Rounder,West Indies,36,1000,436.5,1
+Kieron Pollard,All-Rounder,West Indies,36,1000,62.82,0
+Shakib Al Hasan,All-Rounder,Bangladesh,36,1000,115.95,0
+Shahrukh Khan,All-Rounder,India,28,1000,159.47,0
+Deepak Hooda,All-Rounder,India,29,1000,70.97,0
+Jasprit Bumrah,Bowler,India,30,500,434.73,1
+Mohammed Shami,Bowler,India,33,500,47.21,0
+Yuzvendra Chahal,Bowler,India,33,500,56.4,0
+Ravichandran Ashwin,Bowler,India,37,500,20.0,0
+Bhuvneshwar Kumar,Bowler,India,34,500,59.22,0
+Trent Boult,Bowler,New Zealand,34,500,32.28,0
+Pat Cummins,Bowler,Australia,30,500,52.07,0
+Mitchell Starc,Bowler,Australia,34,500,62.89,0
+Kagiso Rabada,Bowler,South Africa,28,500,55.69,0
+Anrich Nortje,Bowler,South Africa,30,500,39.41,0
+Rashid Khan,Bowler,Afghanistan,25,500,456.71,1
+Mohammad Nabi,Bowler,Afghanistan,38,500,37.85,0
+Dwayne Bravo,Bowler,West Indies,40,500,26.4,0
+Umesh Yadav,Bowler,India,35,500,37.24,0
+Shardul Thakur,Bowler,India,32,500,97.46,0
+Deepak Chahar,Bowler,India,31,500,67.83,0
+Arshdeep Singh,Bowler,India,24,500,52.64,0
+T Natarajan,Bowler,India,32,500,70.41,0
+Avesh Khan,Bowler,India,27,500,46.99,0

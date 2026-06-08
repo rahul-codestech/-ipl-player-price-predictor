@@ -1,0 +1,313 @@
+player_name,country,role,age,season,team,matches,runs,strike_rate,batting_avg,fifties,hundreds,wickets,economy_rate,bowling_avg
+Virat Kohli,India,Batsman,30,2018,RR,14,313,149.3,42.7,2,0,0,5.0,0.0
+Rohit Sharma,India,Batsman,31,2018,RCB,10,544,103.8,33.1,4,1,0,5.0,0.0
+KL Rahul,India,Batsman,27,2018,RCB,13,389,137.1,38.2,3,1,0,5.0,0.0
+Shubman Gill,India,Batsman,19,2018,RCB,11,328,186.1,41.9,3,0,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,34,2018,RR,14,307,157.1,40.9,3,1,0,5.0,0.0
+David Warner,Australia,Batsman,32,2018,KKR,11,303,130.4,37.9,2,0,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,28,2018,CSK,9,228,159.7,65.8,2,0,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,26,2018,SRH,9,523,100.8,27.6,4,1,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,21,2018,GT,13,258,111.5,45.7,2,0,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,20,2018,MI,12,315,150.5,46.9,3,0,0,5.0,0.0
+Shreyas Iyer,India,Batsman,24,2018,RR,10,355,128.8,22.9,4,0,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,28,2018,RCB,13,511,161.2,29.0,4,1,0,5.0,0.0
+Tilak Varma,India,Batsman,16,2018,RR,8,419,138.5,42.7,3,0,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,22,2018,RCB,10,468,92.8,46.2,2,1,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,19,2018,RR,14,372,157.3,55.9,1,0,0,5.0,0.0
+Prithvi Shaw,India,Batsman,19,2018,RR,12,449,114.5,39.9,1,1,0,5.0,0.0
+Manish Pandey,India,Batsman,29,2018,KKR,10,464,146.5,23.3,1,1,0,5.0,0.0
+Ambati Rayudu,India,Batsman,33,2018,GT,13,487,133.8,45.5,3,1,0,5.0,0.0
+Robin Uthappa,India,Batsman,33,2018,GT,14,349,148.3,24.5,2,1,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,30,2018,PBKS,13,257,132.9,35.1,4,1,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,25,2018,MI,15,400,148.5,30.1,1,0,11,8.73,12.6
+Ravindra Jadeja,India,All-Rounder,30,2018,MI,15,247,147.0,24.5,1,0,10,8.72,26.1
+Axar Patel,India,All-Rounder,25,2018,MI,10,277,184.5,43.7,2,0,8,6.86,26.3
+Washington Sundar,India,All-Rounder,19,2018,MI,14,194,142.3,39.2,1,0,10,10.02,24.9
+Glenn Maxwell,Australia,All-Rounder,30,2018,RCB,8,170,133.7,28.8,2,0,8,8.3,28.1
+Marcus Stoinis,Australia,All-Rounder,29,2018,MI,11,220,123.8,31.8,0,0,12,9.42,26.7
+Sam Curran,England,All-Rounder,20,2018,MI,10,187,138.6,34.5,1,0,13,7.57,14.3
+Ben Stokes,England,All-Rounder,27,2018,RCB,15,259,146.3,32.0,2,0,11,7.56,17.4
+Andre Russell,West Indies,All-Rounder,31,2018,CSK,11,270,151.9,22.6,1,0,12,9.03,30.3
+Kieron Pollard,West Indies,All-Rounder,31,2018,SRH,15,192,142.1,12.5,2,0,13,7.47,27.8
+Shakib Al Hasan,Bangladesh,All-Rounder,31,2018,PBKS,15,319,164.2,31.3,2,0,7,6.91,17.5
+Shahrukh Khan,India,All-Rounder,23,2018,MI,13,307,162.6,26.1,2,0,15,8.81,39.6
+Deepak Hooda,India,All-Rounder,24,2018,DC,12,249,113.6,39.8,0,0,9,9.2,30.6
+Jasprit Bumrah,India,Bowler,25,2018,MI,15,100,109.1,5.0,0,0,10,7.06,19.8
+Mohammed Shami,India,Bowler,28,2018,PBKS,15,0,96.0,23.8,0,0,10,7.8,17.8
+Yuzvendra Chahal,India,Bowler,28,2018,GT,14,86,100.9,5.9,0,0,9,9.26,20.9
+Ravichandran Ashwin,India,Bowler,32,2018,KKR,10,97,126.7,9.7,0,0,9,6.17,27.6
+Bhuvneshwar Kumar,India,Bowler,29,2018,CSK,8,234,97.5,9.5,0,0,21,7.82,29.3
+Trent Boult,New Zealand,Bowler,29,2018,PBKS,9,155,89.9,7.7,0,0,21,7.65,28.8
+Pat Cummins,Australia,Bowler,25,2018,DC,8,15,86.6,12.3,0,0,8,7.55,29.4
+Mitchell Starc,Australia,Bowler,29,2018,RCB,14,175,127.7,25.9,0,0,20,9.19,23.2
+Kagiso Rabada,South Africa,Bowler,23,2018,LSG,11,60,87.1,21.7,0,0,17,7.27,35.6
+Anrich Nortje,South Africa,Bowler,25,2018,RR,9,61,90.2,29.1,0,0,15,8.69,25.3
+Rashid Khan,Afghanistan,Bowler,20,2018,RCB,15,103,131.8,23.3,0,0,14,8.3,19.8
+Mohammad Nabi,Afghanistan,Bowler,33,2018,RR,12,66,87.8,20.6,0,0,11,8.92,22.2
+Dwayne Bravo,West Indies,Bowler,35,2018,SRH,9,30,123.1,25.6,0,0,9,8.2,29.3
+Umesh Yadav,India,Bowler,30,2018,MI,12,118,123.2,17.8,0,0,11,9.31,10.7
+Shardul Thakur,India,Bowler,27,2018,LSG,8,131,107.2,18.7,0,0,19,8.73,23.2
+Deepak Chahar,India,Bowler,26,2018,RCB,10,91,90.7,13.3,0,0,17,7.61,16.1
+Arshdeep Singh,India,Bowler,19,2018,KKR,8,131,129.3,14.7,0,0,9,9.28,26.2
+T Natarajan,India,Bowler,27,2018,CSK,8,54,113.2,19.4,0,0,10,7.35,23.9
+Avesh Khan,India,Bowler,22,2018,RR,8,84,90.0,24.3,0,0,21,6.36,26.5
+Virat Kohli,India,Batsman,31,2019,GT,12,276,154.2,44.3,4,1,0,5.0,0.0
+Rohit Sharma,India,Batsman,32,2019,GT,13,109,129.4,35.0,4,1,0,5.0,0.0
+KL Rahul,India,Batsman,28,2019,RCB,10,347,129.0,57.1,1,0,0,5.0,0.0
+Shubman Gill,India,Batsman,20,2019,RR,11,507,161.7,26.0,4,0,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,35,2019,CSK,15,296,139.8,17.1,3,0,0,5.0,0.0
+David Warner,Australia,Batsman,33,2019,PBKS,14,592,147.4,32.4,4,0,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,29,2019,DC,14,207,133.1,46.9,2,0,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,27,2019,GT,13,351,160.8,33.2,3,0,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,22,2019,RR,12,300,164.5,17.6,2,0,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,21,2019,LSG,13,568,134.6,38.0,4,1,0,5.0,0.0
+Shreyas Iyer,India,Batsman,25,2019,MI,11,532,153.9,42.9,3,1,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,29,2019,DC,8,390,133.8,42.6,2,1,0,5.0,0.0
+Tilak Varma,India,Batsman,17,2019,CSK,15,406,140.2,39.0,4,0,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,23,2019,DC,14,287,166.1,47.6,3,0,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,20,2019,KKR,13,484,143.3,59.9,4,1,0,5.0,0.0
+Prithvi Shaw,India,Batsman,20,2019,DC,9,283,115.7,32.4,4,1,0,5.0,0.0
+Manish Pandey,India,Batsman,30,2019,RCB,8,341,110.1,55.3,4,0,0,5.0,0.0
+Ambati Rayudu,India,Batsman,34,2019,GT,12,200,137.8,44.5,1,0,0,5.0,0.0
+Robin Uthappa,India,Batsman,34,2019,MI,9,232,143.4,52.0,2,1,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,31,2019,MI,10,326,109.2,51.5,2,0,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,26,2019,LSG,12,267,135.3,41.1,2,0,9,9.03,40.8
+Ravindra Jadeja,India,All-Rounder,31,2019,MI,9,298,118.0,22.9,0,0,5,8.92,32.1
+Axar Patel,India,All-Rounder,26,2019,RR,8,0,139.6,23.9,0,0,10,9.69,31.3
+Washington Sundar,India,All-Rounder,20,2019,CSK,14,357,156.9,37.7,2,0,7,9.03,34.4
+Glenn Maxwell,Australia,All-Rounder,31,2019,RR,13,378,170.5,21.1,1,0,8,8.92,11.8
+Marcus Stoinis,Australia,All-Rounder,30,2019,RCB,9,406,110.9,27.6,0,0,6,7.28,37.6
+Sam Curran,England,All-Rounder,21,2019,LSG,14,161,154.8,34.0,2,0,15,8.51,20.1
+Ben Stokes,England,All-Rounder,28,2019,LSG,10,290,128.7,23.5,0,0,10,8.69,19.7
+Andre Russell,West Indies,All-Rounder,32,2019,MI,13,254,99.3,27.2,0,0,13,8.84,29.0
+Kieron Pollard,West Indies,All-Rounder,32,2019,RR,9,407,148.6,28.3,2,0,12,11.17,25.5
+Shakib Al Hasan,Bangladesh,All-Rounder,32,2019,LSG,13,381,140.0,32.6,1,0,15,9.11,20.2
+Shahrukh Khan,India,All-Rounder,24,2019,GT,13,256,112.9,29.6,0,0,11,8.61,27.6
+Deepak Hooda,India,All-Rounder,25,2019,PBKS,8,198,123.4,41.5,2,0,13,9.68,21.0
+Jasprit Bumrah,India,Bowler,26,2019,PBKS,9,79,131.3,26.1,0,0,19,7.73,19.3
+Mohammed Shami,India,Bowler,29,2019,KKR,11,117,128.6,5.0,0,0,13,8.88,19.7
+Yuzvendra Chahal,India,Bowler,29,2019,KKR,13,29,91.1,8.1,0,0,15,5.2,28.8
+Ravichandran Ashwin,India,Bowler,33,2019,CSK,15,70,86.4,10.4,0,0,15,9.11,29.7
+Bhuvneshwar Kumar,India,Bowler,30,2019,PBKS,14,102,73.8,35.9,0,0,20,7.4,28.0
+Trent Boult,New Zealand,Bowler,30,2019,KKR,11,91,58.9,11.3,0,0,17,7.83,22.5
+Pat Cummins,Australia,Bowler,26,2019,LSG,12,85,90.2,15.4,0,0,9,10.68,10.4
+Mitchell Starc,Australia,Bowler,30,2019,CSK,11,105,84.8,34.1,0,0,10,7.47,28.0
+Kagiso Rabada,South Africa,Bowler,24,2019,SRH,13,71,92.4,5.1,0,0,8,8.79,35.1
+Anrich Nortje,South Africa,Bowler,26,2019,KKR,10,56,108.8,12.5,0,0,12,7.82,28.6
+Rashid Khan,Afghanistan,Bowler,21,2019,RCB,8,28,95.9,22.6,0,0,15,10.33,21.2
+Mohammad Nabi,Afghanistan,Bowler,34,2019,DC,12,122,87.3,5.0,0,0,8,8.22,28.8
+Dwayne Bravo,West Indies,Bowler,36,2019,SRH,15,0,103.6,5.0,0,0,13,8.4,28.0
+Umesh Yadav,India,Bowler,31,2019,RR,9,93,93.8,20.1,0,0,14,10.92,29.8
+Shardul Thakur,India,Bowler,28,2019,PBKS,8,120,101.1,11.2,0,0,17,10.17,23.7
+Deepak Chahar,India,Bowler,27,2019,KKR,13,0,110.1,33.1,0,0,20,7.08,16.9
+Arshdeep Singh,India,Bowler,20,2019,LSG,11,199,120.0,31.0,0,0,17,7.27,15.3
+T Natarajan,India,Bowler,28,2019,SRH,15,8,122.4,20.2,0,0,19,8.13,22.1
+Avesh Khan,India,Bowler,23,2019,LSG,11,62,86.9,16.6,0,0,11,9.65,28.7
+Virat Kohli,India,Batsman,32,2020,KKR,8,571,130.8,28.1,1,1,0,5.0,0.0
+Rohit Sharma,India,Batsman,33,2020,RCB,13,364,131.5,47.5,2,0,0,5.0,0.0
+KL Rahul,India,Batsman,29,2020,LSG,15,189,165.5,30.0,1,0,0,5.0,0.0
+Shubman Gill,India,Batsman,21,2020,PBKS,8,459,136.2,28.5,2,0,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,36,2020,RCB,9,193,89.9,39.6,3,1,0,5.0,0.0
+David Warner,Australia,Batsman,34,2020,SRH,13,473,139.9,24.8,2,0,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,30,2020,MI,8,509,106.8,27.8,4,0,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,28,2020,MI,11,442,125.6,36.4,1,1,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,23,2020,MI,14,298,142.7,30.2,3,1,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,22,2020,MI,12,460,159.5,34.1,3,1,0,5.0,0.0
+Shreyas Iyer,India,Batsman,26,2020,RCB,13,408,172.7,22.7,2,1,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,30,2020,RCB,14,715,134.6,30.8,3,0,0,5.0,0.0
+Tilak Varma,India,Batsman,18,2020,CSK,15,441,134.7,52.1,3,1,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,24,2020,SRH,14,395,138.4,38.3,3,0,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,21,2020,CSK,14,391,137.7,43.0,3,1,0,5.0,0.0
+Prithvi Shaw,India,Batsman,21,2020,KKR,10,253,154.6,28.6,4,1,0,5.0,0.0
+Manish Pandey,India,Batsman,31,2020,RR,11,250,151.1,43.9,3,1,0,5.0,0.0
+Ambati Rayudu,India,Batsman,35,2020,CSK,8,342,145.9,25.5,4,1,0,5.0,0.0
+Robin Uthappa,India,Batsman,35,2020,KKR,8,317,158.9,31.0,3,0,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,32,2020,DC,12,210,161.3,31.3,1,1,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,27,2020,GT,11,221,150.1,30.3,2,0,5,8.84,46.2
+Ravindra Jadeja,India,All-Rounder,32,2020,LSG,15,27,129.1,41.0,0,0,10,7.8,42.8
+Axar Patel,India,All-Rounder,27,2020,MI,9,273,157.5,35.6,0,0,14,9.34,15.0
+Washington Sundar,India,All-Rounder,21,2020,GT,12,294,165.6,31.8,2,0,9,10.42,40.6
+Glenn Maxwell,Australia,All-Rounder,32,2020,KKR,12,102,119.4,23.0,1,0,15,8.83,26.2
+Marcus Stoinis,Australia,All-Rounder,31,2020,PBKS,8,346,160.0,40.0,1,0,6,9.32,27.1
+Sam Curran,England,All-Rounder,22,2020,CSK,12,109,142.5,18.1,2,0,5,8.95,48.5
+Ben Stokes,England,All-Rounder,29,2020,SRH,8,242,138.0,29.9,0,0,12,8.77,42.2
+Andre Russell,West Indies,All-Rounder,33,2020,SRH,9,186,143.5,25.5,2,0,15,8.14,29.7
+Kieron Pollard,West Indies,All-Rounder,33,2020,GT,10,405,161.3,32.9,2,0,9,9.63,31.7
+Shakib Al Hasan,Bangladesh,All-Rounder,33,2020,SRH,9,127,143.8,34.5,1,0,9,8.93,21.4
+Shahrukh Khan,India,All-Rounder,25,2020,LSG,9,299,172.1,25.1,2,0,8,8.33,35.1
+Deepak Hooda,India,All-Rounder,26,2020,RR,14,257,135.8,24.5,1,0,7,8.49,19.7
+Jasprit Bumrah,India,Bowler,27,2020,CSK,14,131,97.2,11.5,0,0,8,10.65,27.4
+Mohammed Shami,India,Bowler,30,2020,SRH,8,90,113.3,15.7,0,0,10,9.48,23.8
+Yuzvendra Chahal,India,Bowler,30,2020,CSK,11,57,74.8,5.0,0,0,12,5.97,21.9
+Ravichandran Ashwin,India,Bowler,34,2020,KKR,11,106,124.2,18.7,0,0,16,7.9,22.3
+Bhuvneshwar Kumar,India,Bowler,31,2020,GT,11,44,108.4,5.0,0,0,14,10.97,19.4
+Trent Boult,New Zealand,Bowler,31,2020,GT,14,86,107.4,17.3,0,0,17,11.15,23.1
+Pat Cummins,Australia,Bowler,27,2020,MI,8,59,107.7,24.6,0,0,14,9.9,20.0
+Mitchell Starc,Australia,Bowler,31,2020,CSK,15,76,114.2,26.0,0,0,16,9.02,34.8
+Kagiso Rabada,South Africa,Bowler,25,2020,CSK,10,151,94.6,19.7,0,0,19,7.47,23.8
+Anrich Nortje,South Africa,Bowler,27,2020,SRH,11,77,97.2,16.0,0,0,9,8.48,11.8
+Rashid Khan,Afghanistan,Bowler,22,2020,RCB,10,29,99.5,29.4,0,0,13,9.29,24.3
+Mohammad Nabi,Afghanistan,Bowler,35,2020,MI,15,101,130.3,18.3,0,0,15,8.97,28.1
+Dwayne Bravo,West Indies,Bowler,37,2020,RR,10,124,106.1,20.7,0,0,18,8.58,19.6
+Umesh Yadav,India,Bowler,32,2020,RR,12,65,87.5,9.5,0,0,11,8.79,35.0
+Shardul Thakur,India,Bowler,29,2020,CSK,9,93,112.3,5.0,0,0,8,7.01,25.1
+Deepak Chahar,India,Bowler,28,2020,DC,11,64,89.9,14.6,0,0,9,7.8,32.5
+Arshdeep Singh,India,Bowler,21,2020,MI,12,22,91.7,18.9,0,0,11,7.98,21.2
+T Natarajan,India,Bowler,29,2020,RCB,11,85,89.5,24.6,0,0,18,6.37,19.9
+Avesh Khan,India,Bowler,24,2020,RCB,11,156,123.5,14.5,0,0,17,9.01,23.7
+Virat Kohli,India,Batsman,33,2021,KKR,12,390,161.0,32.6,4,1,0,5.0,0.0
+Rohit Sharma,India,Batsman,34,2021,KKR,13,485,147.8,40.4,1,0,0,5.0,0.0
+KL Rahul,India,Batsman,30,2021,CSK,13,338,167.9,26.8,2,0,0,5.0,0.0
+Shubman Gill,India,Batsman,22,2021,CSK,12,239,146.4,35.1,4,1,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,37,2021,SRH,14,681,110.2,33.8,1,0,0,5.0,0.0
+David Warner,Australia,Batsman,35,2021,DC,14,322,169.3,13.2,3,0,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,31,2021,MI,15,403,152.8,37.1,2,0,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,29,2021,GT,13,552,127.8,56.0,2,1,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,24,2021,MI,11,395,127.7,46.4,3,1,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,23,2021,PBKS,15,301,175.3,34.1,2,1,0,5.0,0.0
+Shreyas Iyer,India,Batsman,27,2021,GT,15,525,153.4,47.4,1,0,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,31,2021,KKR,13,481,139.9,26.4,2,1,0,5.0,0.0
+Tilak Varma,India,Batsman,19,2021,MI,8,353,140.5,40.1,1,0,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,25,2021,RR,12,134,136.8,30.7,2,1,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,22,2021,RCB,9,498,151.2,33.1,1,1,0,5.0,0.0
+Prithvi Shaw,India,Batsman,22,2021,SRH,10,326,141.1,31.5,2,1,0,5.0,0.0
+Manish Pandey,India,Batsman,32,2021,KKR,15,487,151.4,48.5,3,0,0,5.0,0.0
+Ambati Rayudu,India,Batsman,36,2021,RCB,15,315,163.7,40.0,2,0,0,5.0,0.0
+Robin Uthappa,India,Batsman,36,2021,LSG,14,588,143.6,31.5,1,0,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,33,2021,RCB,10,321,149.4,32.3,3,1,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,28,2021,MI,11,388,153.7,28.3,1,0,7,8.92,24.0
+Ravindra Jadeja,India,All-Rounder,33,2021,KKR,14,266,166.8,27.1,2,0,14,8.32,40.6
+Axar Patel,India,All-Rounder,28,2021,RCB,11,125,185.0,27.2,1,0,6,10.58,32.8
+Washington Sundar,India,All-Rounder,22,2021,RCB,10,340,127.2,17.1,2,0,6,10.18,34.2
+Glenn Maxwell,Australia,All-Rounder,33,2021,GT,9,289,150.2,23.6,1,0,6,8.13,30.6
+Marcus Stoinis,Australia,All-Rounder,32,2021,RR,13,226,141.0,21.2,1,0,12,10.61,35.1
+Sam Curran,England,All-Rounder,23,2021,RR,13,143,166.5,36.4,0,0,5,8.5,24.3
+Ben Stokes,England,All-Rounder,30,2021,GT,14,277,153.7,25.6,1,0,14,10.75,23.3
+Andre Russell,West Indies,All-Rounder,34,2021,MI,8,425,119.8,17.6,2,0,9,7.29,32.0
+Kieron Pollard,West Indies,All-Rounder,34,2021,CSK,8,77,135.6,42.3,2,0,10,8.54,26.4
+Shakib Al Hasan,Bangladesh,All-Rounder,34,2021,LSG,13,253,131.2,27.0,0,0,15,7.77,28.6
+Shahrukh Khan,India,All-Rounder,26,2021,PBKS,11,90,163.3,30.8,2,0,12,6.7,51.5
+Deepak Hooda,India,All-Rounder,27,2021,CSK,11,191,155.1,32.8,0,0,10,7.99,26.5
+Jasprit Bumrah,India,Bowler,28,2021,MI,8,88,99.5,31.0,0,0,8,8.42,25.2
+Mohammed Shami,India,Bowler,31,2021,LSG,11,87,96.1,16.4,0,0,21,9.1,35.4
+Yuzvendra Chahal,India,Bowler,31,2021,KKR,13,34,115.1,13.0,0,0,16,7.89,20.4
+Ravichandran Ashwin,India,Bowler,35,2021,MI,9,12,86.0,23.4,0,0,9,8.88,21.5
+Bhuvneshwar Kumar,India,Bowler,32,2021,RR,15,110,114.7,5.0,0,0,12,6.88,13.9
+Trent Boult,New Zealand,Bowler,32,2021,RCB,14,44,123.3,5.0,0,0,8,7.84,21.9
+Pat Cummins,Australia,Bowler,28,2021,SRH,15,78,116.3,27.3,0,0,21,11.97,24.2
+Mitchell Starc,Australia,Bowler,32,2021,CSK,15,83,82.3,13.8,0,0,18,6.24,28.8
+Kagiso Rabada,South Africa,Bowler,26,2021,KKR,11,103,111.4,17.2,0,0,16,6.78,34.7
+Anrich Nortje,South Africa,Bowler,28,2021,RCB,12,24,98.6,18.1,0,0,12,6.87,17.1
+Rashid Khan,Afghanistan,Bowler,23,2021,LSG,15,35,113.8,5.0,0,0,9,8.58,23.5
+Mohammad Nabi,Afghanistan,Bowler,36,2021,LSG,8,37,100.9,17.6,0,0,14,8.67,30.6
+Dwayne Bravo,West Indies,Bowler,38,2021,LSG,15,53,99.7,19.4,0,0,14,7.65,32.1
+Umesh Yadav,India,Bowler,33,2021,SRH,14,84,108.1,15.4,0,0,16,8.25,28.1
+Shardul Thakur,India,Bowler,30,2021,DC,9,126,111.1,13.0,0,0,15,6.71,19.1
+Deepak Chahar,India,Bowler,29,2021,RR,11,112,91.6,29.6,0,0,9,7.21,20.0
+Arshdeep Singh,India,Bowler,22,2021,MI,9,97,93.3,10.3,0,0,19,7.78,27.2
+T Natarajan,India,Bowler,30,2021,GT,13,81,97.8,22.7,0,0,17,10.85,29.1
+Avesh Khan,India,Bowler,25,2021,PBKS,13,25,93.5,9.5,0,0,14,7.24,35.5
+Virat Kohli,India,Batsman,34,2022,RR,12,497,159.9,41.0,2,1,0,5.0,0.0
+Rohit Sharma,India,Batsman,35,2022,KKR,12,315,120.2,30.9,1,0,0,5.0,0.0
+KL Rahul,India,Batsman,31,2022,PBKS,12,288,140.6,31.8,1,1,0,5.0,0.0
+Shubman Gill,India,Batsman,23,2022,RCB,15,464,148.3,59.2,1,1,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,38,2022,LSG,13,463,175.0,35.4,4,1,0,5.0,0.0
+David Warner,Australia,Batsman,36,2022,RR,11,587,142.0,41.8,3,0,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,32,2022,RCB,15,193,107.2,14.6,3,1,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,30,2022,KKR,15,320,126.4,45.9,2,0,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,25,2022,KKR,13,477,127.6,41.0,4,1,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,24,2022,CSK,9,500,127.7,26.3,1,0,0,5.0,0.0
+Shreyas Iyer,India,Batsman,28,2022,CSK,10,387,111.0,32.5,2,1,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,32,2022,DC,14,477,148.1,32.7,3,1,0,5.0,0.0
+Tilak Varma,India,Batsman,20,2022,PBKS,11,389,138.2,47.2,2,1,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,26,2022,DC,10,345,128.0,47.9,1,0,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,23,2022,GT,10,444,123.8,38.3,4,1,0,5.0,0.0
+Prithvi Shaw,India,Batsman,23,2022,PBKS,9,378,139.5,46.2,2,1,0,5.0,0.0
+Manish Pandey,India,Batsman,33,2022,SRH,13,381,116.4,27.3,1,1,0,5.0,0.0
+Ambati Rayudu,India,Batsman,37,2022,KKR,12,343,141.0,43.3,4,1,0,5.0,0.0
+Robin Uthappa,India,Batsman,37,2022,DC,9,467,131.7,21.4,3,0,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,34,2022,CSK,10,530,129.9,32.0,2,0,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,29,2022,RR,12,130,162.6,18.2,0,0,13,8.54,22.3
+Ravindra Jadeja,India,All-Rounder,34,2022,KKR,15,318,163.7,40.2,2,0,12,9.24,37.5
+Axar Patel,India,All-Rounder,29,2022,RR,12,289,190.8,19.6,2,0,7,8.59,18.6
+Washington Sundar,India,All-Rounder,23,2022,PBKS,12,105,153.4,27.2,2,0,6,8.57,19.6
+Glenn Maxwell,Australia,All-Rounder,34,2022,DC,14,389,160.9,31.7,0,0,9,7.61,31.3
+Marcus Stoinis,Australia,All-Rounder,33,2022,KKR,9,336,117.2,21.9,2,0,9,7.61,27.7
+Sam Curran,England,All-Rounder,24,2022,GT,15,236,179.2,17.0,1,0,14,7.19,30.3
+Ben Stokes,England,All-Rounder,31,2022,LSG,15,266,131.6,36.3,0,0,6,7.2,24.7
+Andre Russell,West Indies,All-Rounder,35,2022,RCB,9,422,132.9,33.9,0,0,5,9.1,28.3
+Kieron Pollard,West Indies,All-Rounder,35,2022,SRH,12,189,146.8,41.8,0,0,12,8.43,29.5
+Shakib Al Hasan,Bangladesh,All-Rounder,35,2022,LSG,10,185,171.0,20.2,2,0,7,7.47,19.6
+Shahrukh Khan,India,All-Rounder,27,2022,MI,12,292,170.1,29.5,1,0,10,8.83,21.2
+Deepak Hooda,India,All-Rounder,28,2022,LSG,14,195,159.2,26.3,0,0,14,8.68,35.7
+Jasprit Bumrah,India,Bowler,29,2022,CSK,12,77,98.9,6.5,0,0,9,9.95,36.6
+Mohammed Shami,India,Bowler,32,2022,KKR,10,46,103.0,21.9,0,0,17,5.64,28.1
+Yuzvendra Chahal,India,Bowler,32,2022,RR,12,85,99.3,31.3,0,0,8,6.59,30.4
+Ravichandran Ashwin,India,Bowler,36,2022,PBKS,14,113,87.8,24.7,0,0,15,8.03,14.9
+Bhuvneshwar Kumar,India,Bowler,33,2022,RR,13,89,106.0,9.8,0,0,18,8.18,27.8
+Trent Boult,New Zealand,Bowler,33,2022,RR,15,41,73.4,21.4,0,0,10,9.22,28.0
+Pat Cummins,Australia,Bowler,29,2022,MI,11,9,119.3,20.4,0,0,15,7.9,23.9
+Mitchell Starc,Australia,Bowler,33,2022,CSK,11,71,87.2,10.4,0,0,17,8.91,29.3
+Kagiso Rabada,South Africa,Bowler,27,2022,RCB,8,103,110.3,5.0,0,0,11,6.46,16.3
+Anrich Nortje,South Africa,Bowler,29,2022,PBKS,14,108,94.4,28.8,0,0,15,7.72,20.8
+Rashid Khan,Afghanistan,Bowler,24,2022,RCB,12,65,93.8,5.6,0,0,8,7.54,41.9
+Mohammad Nabi,Afghanistan,Bowler,37,2022,RCB,15,71,95.2,13.0,0,0,15,8.33,31.2
+Dwayne Bravo,West Indies,Bowler,39,2022,PBKS,8,103,85.1,18.1,0,0,15,9.54,19.5
+Umesh Yadav,India,Bowler,34,2022,KKR,12,83,122.2,5.9,0,0,14,7.97,17.9
+Shardul Thakur,India,Bowler,31,2022,MI,8,111,122.7,20.0,0,0,18,7.11,31.4
+Deepak Chahar,India,Bowler,30,2022,LSG,8,77,134.1,19.4,0,0,21,7.07,30.0
+Arshdeep Singh,India,Bowler,23,2022,RCB,15,115,104.6,5.0,0,0,17,8.37,11.6
+T Natarajan,India,Bowler,31,2022,PBKS,12,56,80.5,5.0,0,0,12,5.0,15.8
+Avesh Khan,India,Bowler,26,2022,KKR,9,0,103.1,12.0,0,0,9,8.32,25.0
+Virat Kohli,India,Batsman,35,2023,SRH,13,347,122.0,37.5,1,1,0,5.0,0.0
+Rohit Sharma,India,Batsman,36,2023,LSG,11,477,122.8,28.5,2,1,0,5.0,0.0
+KL Rahul,India,Batsman,32,2023,KKR,15,251,105.1,33.2,1,0,0,5.0,0.0
+Shubman Gill,India,Batsman,24,2023,DC,15,465,142.3,33.1,3,0,0,5.0,0.0
+Faf du Plessis,South Africa,Batsman,39,2023,KKR,11,508,126.9,36.5,4,1,0,5.0,0.0
+David Warner,Australia,Batsman,37,2023,SRH,15,351,152.6,39.0,2,1,0,5.0,0.0
+Jos Buttler,England,WK-Batsman,33,2023,RCB,15,367,182.4,29.6,1,0,0,5.0,0.0
+Quinton de Kock,South Africa,WK-Batsman,31,2023,PBKS,8,453,129.1,54.3,1,0,0,5.0,0.0
+Rishabh Pant,India,WK-Batsman,26,2023,RR,14,424,140.6,33.1,3,0,0,5.0,0.0
+Ishan Kishan,India,WK-Batsman,25,2023,CSK,13,212,179.1,47.4,2,1,0,5.0,0.0
+Shreyas Iyer,India,Batsman,29,2023,RCB,8,248,136.1,26.8,2,1,0,5.0,0.0
+Suryakumar Yadav,India,Batsman,33,2023,PBKS,12,458,124.8,48.0,3,1,0,5.0,0.0
+Tilak Varma,India,Batsman,21,2023,DC,11,388,139.6,37.9,4,0,0,5.0,0.0
+Ruturaj Gaikwad,India,Batsman,27,2023,SRH,11,554,168.5,40.7,4,1,0,5.0,0.0
+Devdutt Padikkal,India,Batsman,24,2023,CSK,15,336,149.2,41.2,2,0,0,5.0,0.0
+Prithvi Shaw,India,Batsman,24,2023,LSG,8,376,135.2,31.0,4,0,0,5.0,0.0
+Manish Pandey,India,Batsman,34,2023,DC,11,317,161.7,16.0,3,0,0,5.0,0.0
+Ambati Rayudu,India,Batsman,38,2023,GT,10,255,130.5,32.9,4,1,0,5.0,0.0
+Robin Uthappa,India,Batsman,38,2023,CSK,11,266,119.8,26.6,2,1,0,5.0,0.0
+Ajinkya Rahane,India,Batsman,35,2023,RCB,9,444,176.4,19.7,2,0,0,5.0,0.0
+Hardik Pandya,India,All-Rounder,30,2023,PBKS,12,228,154.7,23.6,0,0,15,8.28,36.0
+Ravindra Jadeja,India,All-Rounder,35,2023,RR,10,199,148.8,29.9,1,0,11,8.72,31.6
+Axar Patel,India,All-Rounder,30,2023,GT,12,341,173.6,18.5,2,0,9,8.54,37.5
+Washington Sundar,India,All-Rounder,24,2023,RCB,11,457,128.9,32.8,0,0,13,8.97,38.5
+Glenn Maxwell,Australia,All-Rounder,35,2023,LSG,11,225,105.9,26.7,0,0,12,10.11,38.4
+Marcus Stoinis,Australia,All-Rounder,34,2023,GT,15,248,161.8,32.4,1,0,5,8.23,24.7
+Sam Curran,England,All-Rounder,25,2023,RCB,10,379,138.6,37.7,1,0,5,10.32,27.2
+Ben Stokes,England,All-Rounder,32,2023,RR,8,348,152.4,21.7,1,0,7,8.34,29.6
+Andre Russell,West Indies,All-Rounder,36,2023,PBKS,13,217,155.5,23.9,2,0,7,9.58,29.0
+Kieron Pollard,West Indies,All-Rounder,36,2023,RCB,14,405,165.6,17.5,1,0,8,9.15,31.9
+Shakib Al Hasan,Bangladesh,All-Rounder,36,2023,PBKS,11,153,161.7,30.2,2,0,15,9.45,26.9
+Shahrukh Khan,India,All-Rounder,28,2023,SRH,13,172,147.8,36.8,2,0,7,8.26,27.3
+Deepak Hooda,India,All-Rounder,29,2023,KKR,13,232,153.4,24.5,2,0,7,9.55,33.9
+Jasprit Bumrah,India,Bowler,30,2023,SRH,12,104,113.3,10.8,0,0,19,7.27,38.6
+Mohammed Shami,India,Bowler,33,2023,PBKS,13,11,107.9,21.0,0,0,16,7.14,27.0
+Yuzvendra Chahal,India,Bowler,33,2023,CSK,8,115,118.6,15.9,0,0,21,6.25,20.5
+Ravichandran Ashwin,India,Bowler,37,2023,GT,12,50,100.5,17.8,0,0,8,9.6,25.3
+Bhuvneshwar Kumar,India,Bowler,34,2023,GT,11,148,92.2,16.9,0,0,13,9.97,21.5
+Trent Boult,New Zealand,Bowler,34,2023,RR,10,74,114.3,27.9,0,0,11,9.78,28.1
+Pat Cummins,Australia,Bowler,30,2023,CSK,14,127,94.6,11.0,0,0,19,10.81,22.8
+Mitchell Starc,Australia,Bowler,34,2023,SRH,15,139,109.2,33.3,0,0,13,8.33,24.7
+Kagiso Rabada,South Africa,Bowler,28,2023,KKR,10,61,96.7,5.0,0,0,15,5.18,13.9
+Anrich Nortje,South Africa,Bowler,30,2023,MI,15,118,135.5,17.4,0,0,8,8.55,31.6
+Rashid Khan,Afghanistan,Bowler,25,2023,MI,15,56,71.9,15.9,0,0,21,9.2,19.9
+Mohammad Nabi,Afghanistan,Bowler,38,2023,RCB,8,85,120.0,16.6,0,0,14,9.39,37.3
+Dwayne Bravo,West Indies,Bowler,40,2023,SRH,10,77,94.0,9.8,0,0,8,9.98,19.0
+Umesh Yadav,India,Bowler,35,2023,CSK,15,32,112.5,5.4,0,0,17,9.44,25.0
+Shardul Thakur,India,Bowler,32,2023,SRH,9,55,96.0,7.9,0,0,11,7.13,21.9
+Deepak Chahar,India,Bowler,31,2023,CSK,11,71,112.9,24.1,0,0,9,7.23,32.6
+Arshdeep Singh,India,Bowler,24,2023,PBKS,10,126,98.5,15.2,0,0,9,7.84,21.8
+T Natarajan,India,Bowler,32,2023,LSG,10,88,125.3,19.5,0,0,19,9.3,23.1
+Avesh Khan,India,Bowler,27,2023,DC,12,4,102.4,6.8,0,0,16,9.23,33.0
